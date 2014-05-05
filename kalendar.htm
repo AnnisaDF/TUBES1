@@ -1,0 +1,25 @@
+<html>
+<head>
+<script type="text/javascript" src="kalendar.js"></script>
+<link href="default.css" rel="stylesheet" type="text/css" />
+<title></title>
+
+</head>
+<body>
+<script type="text/javascript">
+
+ 
+
+var todaydate=new Date()
+
+var curmonth=todaydate.getMonth()+1 //get current month (1-12)
+
+var curyear=todaydate.getFullYear() //get current year
+
+ 
+
+document.write(buildCal(curmonth ,curyear, "mains", "month", "daysofweek", "days", 1));
+
+</script>
+</body>
+</html>
