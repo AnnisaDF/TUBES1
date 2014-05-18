@@ -1,6 +1,6 @@
 TUBES1
 ====================================
-KELOMPOK Kelas D 2011:
+KELOMPOK Kelas D 2011
 ====================================
 Anggota:
 - ISMA QINWAN DANIAH    117006153
